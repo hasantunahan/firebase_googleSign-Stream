@@ -1,4 +1,4 @@
-# firebaseoauth2
+# Firebase GoogleSign
 
 A new Flutter project.
 
